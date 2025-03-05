@@ -1,10 +1,3 @@
-# Presentación del foro evaluable
-Visto en clas de teoría y conexión con la práctica
-* Revisión del enunciado del foro
-* Mostrar cómo se participa
-* 24 marzo evaluación parcial
-* Final del foro 1ª Convocatoria
-
 # Práctica 2
 ## Objetivo de la práctica
 Desarrollo de una práctica de Ciencia de Datos

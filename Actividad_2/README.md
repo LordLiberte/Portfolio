@@ -1,3 +1,4 @@
 # Actividad 2
+
 Esta actividad se basa en realizar un proceso de Ciencia de Datos con datos extraidos de la comunidad de Valencia aportado por el profesor.
 Se realziará un Análisis exploratorio de datos, se visualizarán, se revisarán otros trabajos para tomar referencias, se preprocesaran. Aplicaremos modelos de aprendizaje no supervisados y supervisados, con lo que obtendremos conclusiones y resultados para realizar informes. Se adjuntarán los notebooks usados.
